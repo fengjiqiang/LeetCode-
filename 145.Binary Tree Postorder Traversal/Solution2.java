@@ -7,6 +7,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+//递归
 import java.util.ArrayList;
 public class Solution2 {
     ArrayList<Integer> out =new ArrayList<Integer>();
